@@ -5,11 +5,28 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import "./index.css";
+import Root from "./Components/Root/Root";
+import ErrorPage from './Components/ErrorPage/ErrorPage'
+import Home from "./Components/Home/Home";
+import GadgetDetail from "./Components/GadgetDetail/GadgetDetail";
+
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <div>Hello world!</div>,
+    element: <Root></Root>,
+   errorElement:<ErrorPage></ErrorPage>,
+   children:[
+    {
+      path: '/',
+      element:<Home></Home>
+    },
+    {
+      path:'/gadget/:gadgetId',
+      loader:()=>fetch(`/fakeGadget.json`),
+      element:<GadgetDetail></GadgetDetail>
+    }
+   ]
   },
 ]);
 
