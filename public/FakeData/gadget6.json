@@ -1,0 +1,11 @@
+{
+    "product_id": 6,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://img.freepik.com/free-photo/elegant-smartphone-composition_23-2149437106.jpg",
+    "category": "Smartphone",
+    "price": 999,
+    "description": "The latest iPhone with advanced camera system and A16 chip.",
+    "specification": ["6.1-inch display", "128GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.9
+}

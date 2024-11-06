@@ -1,0 +1,11 @@
+{
+    "product_id": 14,
+    "product_title": "Samsung Galaxy Watch 5",
+    "product_image":"https://img.freepik.com/free-photo/rendering-smart-home-device_23-2151039302.jpg",
+    "category": "Smartwatch",
+    "price": 299,
+    "description": "Stylish smartwatch with fitness tracking.",
+    "specification": ["Heart Rate Monitor", "GPS", "Sleep tracking"],
+    "availability": true,
+    "rating": 4.8
+}

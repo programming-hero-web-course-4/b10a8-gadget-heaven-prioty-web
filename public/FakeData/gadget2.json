@@ -1,0 +1,11 @@
+{
+    "product_id": 2,
+    "product_title": "Apple MacBook Air",
+    "product_image": "https://www.custommacbd.com/cdn/shop/products/macbook-air-gallery3-20201110_8a805bc2-c482-47c8-bf21-8787a65cc8d3_1200x1200.jpg?v=1626576902",
+    "category": "Laptop",
+    "price": 899,
+    "description": "Ultralight and compact laptop with Apple’s M1 chip.",
+    "specification": ["Apple M1", "8GB RAM", "256GB SSD", "13.3-inch Retina display"],
+    "availability": false,
+    "rating": 4.6
+}

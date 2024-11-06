@@ -1,0 +1,11 @@
+{
+    "product_id": 7,
+    "product_title": "Samsung Galaxy S22",
+    "product_image":  "https://img.freepik.com/premium-vector/samsung-galaxy-s23-ultra-official-presentation-new-flagship-new-generation-smartphone-phone-with-builtin-stylus-black-color-original-wallpaper-screen-editorial_661108-12677.jpg?semt=ais_hybrid",
+    "category": "Smartphone",
+    "price": 799,
+    "description": "Flagship Android phone with excellent display and performance.",
+    "specification": ["6.2-inch display", "128GB storage", "5G capable"],
+    "availability": true,
+    "rating": 4.7
+}

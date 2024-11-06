@@ -1,0 +1,11 @@
+{
+      "product_id": 0,
+      "product_title": "Dell XPS 13",
+      "product_image":"https://img.freepik.com/free-photo/view-3d-laptop-device-with-screen-keyboard_23-2150714071.jpg?ga=GA1.1.1853791891.1723221880&semt=ais_hybrid",
+      "category": "Laptop",
+      "price": 899,
+      "description": "A powerful and portable laptop with great battery life.",
+      "specification": ["Intel i5", "8GB RAM", "256GB SSD", "13.3-inch display"],
+      "availability": true,
+      "rating": 4.5
+  }

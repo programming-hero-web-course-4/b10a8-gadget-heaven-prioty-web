@@ -1,0 +1,11 @@
+{
+    "product_id": 19,
+    "product_title": "LG 34WN80C-B",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazJLPzx-rGBKDGCWDcEZmjhMVjCkpz9C4OA&s",
+    "category": "Monitor",
+    "price": 699,
+    "description": "34-inch ultra-wide QHD monitor with great color accuracy.",
+    "specification": ["34-inch", "UltraWide QHD", "USB-C connectivity"],
+    "availability": true,
+    "rating": 4.7
+}
